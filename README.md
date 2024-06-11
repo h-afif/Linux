@@ -168,15 +168,15 @@ we get the result: 502
 
 
 ## Which file is executable by everyone?
-
+```
 cat filelocation.txt | \
     while read FILENAME
     do
     ls -la "$FILENAME";
     done
-
+```
 the same script if you run him you get 
-
+```
 -rwxrwxr-x 1 new-user new-user 13545 Oct 23  2019 /etc/8V2L
 -rw-rw-r-- 1 new-user new-user 13545 Oct 23  2019 /mnt/c4ZX
 -rw-rw-r-- 1 new-user best-group 13545 Oct 23  2019 /mnt/D8B3
@@ -188,7 +188,7 @@ the same script if you run him you get
 -rw-rw-r-- 1 new-user new-user 13545 Oct 23  2019 /var/log/uqyw
 -rw-rw-r-- 1 new-user best-group 13545 Oct 23  2019 /home/v2Vb
 -rw-rw-r-- 1 newer-user new-user 13545 Oct 23  2019 /X1Uy
-
+```
 as you can see -rwxrwxr-x 1 new-user new-user 13545 Oct 23  2019 /etc/8V2L
 hase the x for all the users  x=executable  r=read  w=write
 
