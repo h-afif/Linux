@@ -19,7 +19,7 @@ The aim is to answer the questions as efficiently as possible.
 
 ## Which of the above files are owned by the best-group group(enter the answer separated by spaces in alphabetical order)
 
-first lats find where the file located
+first lats find where the file located\
 we creat bash script script.sh
 
 ```
@@ -52,7 +52,7 @@ cat filelocation.txt | \
     done
 ```
 
-run the script you get the result 
+run the script you get the result\
 the answer is: 	D8B3, v2Vb
 
 
@@ -155,7 +155,7 @@ cat filelocation.txt | \
     ls -la "$FILENAME";
     done
 ```
-The files all have "new-user" as the owner. Except for one: "X1Uy". It has "newer-user" as it's owner.
+The files all have "new-user" as the owner. Except for one: "X1Uy". It has "newer-user" as it's owner.\
 
 so lats see id of the newer-user with command
 ```
