@@ -13,7 +13,7 @@ rmfX\
 SRSq\
 uqyw\
 v2Vb\
-X1Uy\
+X1Uy
 
 The aim is to answer the questions as efficiently as possible.
 
