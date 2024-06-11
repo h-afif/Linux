@@ -2,18 +2,18 @@
 
 Answer the questions about the following files:
 
-8V2L
-bny0
-c4ZX
-D8B3
-FHl1
-oiMO
-PFbD
-rmfX
-SRSq
-uqyw
-v2Vb
-X1Uy
+8V2L\
+bny0\
+c4ZX\
+D8B3\
+FHl1\
+oiMO\
+PFbD\
+rmfX\
+SRSq\
+uqyw\
+v2Vb\
+X1Uy\
 
 The aim is to answer the questions as efficiently as possible.
 
