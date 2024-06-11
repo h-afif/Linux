@@ -1,6 +1,6 @@
 # Ninja Skills
 
-## Answer the questions about the following files:
+Answer the questions about the following files:
 
 8V2L
 bny0
@@ -17,7 +17,7 @@ X1Uy
 
 The aim is to answer the questions as efficiently as possible.
 
-Which of the above files are owned by the best-group group(enter the answer separated by spaces in alphabetical order)
+## Which of the above files are owned by the best-group group(enter the answer separated by spaces in alphabetical order)
 
 first lats find where the file located
 we creat bash script script.sh
@@ -58,7 +58,7 @@ the answer is: 	D8B3, v2Vb
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Which of these files contain an IP address?
+## Which of these files contain an IP address?
 ```
 cat filelocation.txt | \
     while read FILENAME
@@ -87,7 +87,7 @@ now you now what file contain if address
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Which file has the SHA1 hash of 9d54da7584015647ba052173b84d45e8007eba94
+## Which file has the SHA1 hash of 9d54da7584015647ba052173b84d45e8007eba94
 ```
 cat filelocation.txt | \
     while read FILENAME
@@ -119,7 +119,7 @@ you get the result like this: 9d54da7584015647ba052173b84d45e8007eba94  /mnt/c4Z
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Which file contains 230 lines?
+## Which file contains 230 lines?
 ```
 cat filelocation.txt | \
     while read FILENAME
@@ -146,7 +146,7 @@ all file 209 but we want 230 line we see that the file "bny0" that is mean is hi
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Which file's owner has an ID of 502?
+## Which file's owner has an ID of 502?
 
 ```
 cat filelocation.txt | \
@@ -167,7 +167,7 @@ we get the result: 502
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Which file is executable by everyone?
+## Which file is executable by everyone?
 
 cat filelocation.txt | \
     while read FILENAME
